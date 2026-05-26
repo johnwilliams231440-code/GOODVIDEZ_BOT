@@ -1,2 +1,2 @@
 python-telegram-bot==20.8
-pyttsx3==2.90
+gTTS==2.5.1
